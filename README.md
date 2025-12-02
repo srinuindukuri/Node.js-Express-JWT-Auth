@@ -1,0 +1,1 @@
+There is a .env file which is not added in this repo because it contains **JWT_SECRET** Key which is sensitive, so it directs to creating & Verfiy the token in authController and authMiddleware files.
